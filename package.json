@@ -15,11 +15,11 @@
   "author": "Justineo (justice360@gmail.com)",
   "license": "MIT",
   "dependencies": {
-    "echarts": "^3.6.0",
+    "echarts": "^3",
     "lodash.debounce": "^4.0.8"
   },
   "peerDependencies": {
-    "vue": "^2.2.6"
+    "vue": "^2"
   },
   "devDependencies": {
     "autoprefixer": "^6.7.2",
